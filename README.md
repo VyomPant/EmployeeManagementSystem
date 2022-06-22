@@ -1,6 +1,6 @@
 EmpoyeeManagementSystem
 
-A simple Employee Management System created using core java 
+A simple CLI Employee Management System created using core java 
 
 Employee Management System includes the following tasks:
 
