@@ -2,12 +2,9 @@ package MainAssignment;
 
 import java.io.Serializable;
 
-// GITHUB ka employee management /YT  CRUD ka code+ driver ka bhi code
-
-    //employee class a code create employee and initialise attributes
     @SuppressWarnings("serial")
     public class Employee implements Serializable{
-// ismai aur attributes dalenge
+
         int id;
         String name;
         float salary;
