@@ -1,4 +1,4 @@
-EmpoyeeManagementSystem
+EmployeeManagementSystem
 
 A simple CLI Employee Management System created using core java 
 
